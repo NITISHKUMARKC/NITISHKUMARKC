@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NitishKC/NitishKC/main/banner.png" 
+  <img src="https://raw.githubusercontent.com/NITISHKUMARKC/NITISHKUMARKC/main/banner.png" 
        alt="Nitish Kumar KC Banner" 
        width="800" 
        style="border-radius:10px;"/>
@@ -25,6 +25,3 @@
 
 ---
 
-## 📊 GitHub Stats
-![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NITISHKUMARKC&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NITISHKUMARKC&layout=compact&theme=radical)
