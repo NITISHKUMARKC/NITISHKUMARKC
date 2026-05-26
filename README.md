@@ -1,18 +1,19 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NITISHKUMARKC/NITISHKUMARKC/main/banner.png" 
+<div align="right">
+  <img src="https://raw.githubusercontent.com/NitishKumarKC/NitishKumarKC/main/banner.png" 
        alt="Nitish Kumar KC Banner" 
-       width="800" 
+       width="400" 
        style="border-radius:10px;"/>
+</div>
+
 # Hi 👋, I'm Nitish Kumar KC
 🎓 Computer Engineering Student from Nepal  
 💻 Passionate about programming and problem-solving  
-    I’m building my foundation in programming and computer science step by step.  
-    My academic journey is helping me explore core languages like **C, C++**, **Python**, and others as well.  
-    I’m not perfect in all, but I’m trying to learn something new every day.
-    I’m passionate about learning how these tools connect to real-world problem solving and software development.
-- ⚡ Fun fact: I love building efficient solutions with clean code
 
----
+I’m building my foundation in programming and computer science step by step.  
+Currently exploring core languages like **C, C++**, **Python**, and **SQL**.  
+I’m not perfect in all, but I’m learning something new every day 
+and love seeing how these tools connect to real-world software development.
+
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/nitish-kumar-kc-9784bb34a
