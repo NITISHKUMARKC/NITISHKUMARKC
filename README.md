@@ -1,10 +1,8 @@
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/NitishKC/NitishKC/main/banner.png" 
        alt="Nitish Kumar KC Banner" 
        width="800" 
        style="border-radius:10px;"/>
-</div>
 # Hi 👋, I'm Nitish Kumar KC
 🎓 Computer Engineering Student from Nepal  
 💻 Passionate about programming and problem-solving  
