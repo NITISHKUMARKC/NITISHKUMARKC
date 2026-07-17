@@ -55,26 +55,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NitishKumarKC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishKumarKC&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishKumarKC&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NitishKumarKC&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
 
 ## 🌐 Connect with Me
 
