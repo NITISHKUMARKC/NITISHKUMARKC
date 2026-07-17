@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nitish+Kumar+KC+%F0%9F%91%8B;Bachelor+of+Computer+Engineering+Student;Open+Source+Enthusiast+%F0%9F%92%A1;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nitish+Kumar+KC+%F0%9F%91%8B;Open+Source+Enthusiast+%F0%9F%92%A1;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
