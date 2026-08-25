@@ -8,15 +8,15 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=NITISHKUMARKC&label=Profile+Views&color=2E9EF7&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/NITISHKUMARKC?label=Followers&style=flat-square&color=2E9EF7" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=NitishKumarKC&label=Profile+Views&color=2E9EF7&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/NitishKumarKC?label=Followers&style=flat-square&color=2E9EF7" alt="followers"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/nitish-kumar-kc-9784bb34a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/NITISHKUMARKC" target="_blank">
+<a href="https://github.com/NitishKumarKC" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -64,15 +64,6 @@ Working through the fundamentals of artificial intelligence and machine learning
 
 <br/>
 
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| 🚧 *Coming soon* | Actively building — this space will hold a project once it's ready to show. |
-| 🚧 *Coming soon* | Reserved for an upcoming build. |
-
-<br/>
-
 ## Developer Journey
 
 Started with the fundamentals in C and C++ during coursework, moved into Java and Python for personal projects, and picked up web basics (HTML/CSS) and MySQL along the way. Git and GitHub became part of the workflow early on, and Linux has become my preferred environment for getting real work done. The current chapter is about going deeper into AI/ML and getting more comfortable shipping complete projects, not just finished exercises.
@@ -90,7 +81,7 @@ Started with the fundamentals in C and C++ during coursework, moved into Java an
 
 ## Developer Philosophy
 
-> Understand it before you use it. Build it before you claim it.
+> *"Understand it before you use it. Build it before you claim it."*
 
 <br/>
 
@@ -105,4 +96,3 @@ Started with the fundamentals in C and C++ during coursework, moved into Java an
 **Thanks for stopping by.**
 
 </div>
- ANY PROBLEM HERE
