@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NITISHKUMARKC/NITISHKUMARKC/main/banner.png" alt="Nitish Kumar KC Banner" width="100%" style="border-radius:15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:2CD9FF&height=220&section=header&text=Nitish%20Kumar%20KC&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student&descAlignY=58&descSize=20&animation=fadeIn" alt="Nitish Kumar KC Banner" width="100%"/>
 
 <br/>
 
@@ -94,24 +94,13 @@ Started with the fundamentals in C and C++ during coursework, moved into Java an
 
 <br/>
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITISHKUMARKC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=NITISHKUMARKC&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITISHKUMARKC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<br/>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CD9FF,100:0F2027&height=100&section=footer" alt="footer"/>
 
 **Thanks for stopping by.**
 
