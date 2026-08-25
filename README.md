@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NitishKumarKC/NitishKumarKC/main/banner.png" alt="Nitish Kumar KC Banner" width="100%" style="border-radius:15px;"/>
+<img src="https://raw.githubusercontent.com/NITISHKUMARKC/NITISHKUMARKC/main/banner.png" alt="Nitish Kumar KC Banner" width="100%" style="border-radius:15px;"/>
 
 <br/>
 
@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://github.com/NitishKumarKC">
-  <img src="https://komarev.com/ghpvc/?username=NitishKumarKC&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views"/>
+<a href="https://github.com/NITISHKUMARKC">
+  <img src="https://komarev.com/ghpvc/?username=NITISHKUMARKC&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views"/>
 </a>
-<img src="https://img.shields.io/github/followers/NitishKumarKC?label=Followers&style=for-the-badge&color=2E9EF7" alt="followers"/>
+<img src="https://img.shields.io/github/followers/NITISHKUMARKC?label=Followers&style=for-the-badge&color=2E9EF7" alt="followers"/>
 
 </div>
 
@@ -38,10 +38,18 @@ philosophy: "Learn relentlessly. Build boldly. Ship proudly."
 
 <br/>
 
-## 🛠️ Languages & Tech Stack
+## 💻 Languages I Speak (in code)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,mysql,git,github,linux,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql&theme=dark" alt="Languages" />
+</p>
+
+<br/>
+
+## 🧰 Tools & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,git,github&theme=dark" alt="Tools" />
 </p>
 
 <br/>
@@ -62,16 +70,24 @@ philosophy: "Learn relentlessly. Build boldly. Ship proudly."
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitishKumarKC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishKumarKC&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NITISHKUMARKC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISHKUMARKC&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishKumarKC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITISHKUMARKC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NitishKumarKC&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NITISHKUMARKC&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=NITISHKUMARKC&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 </p>
 
 <br/>
