@@ -19,10 +19,11 @@
 
 ## 🎓 About Me
 
-- 🎓 I'm currently pursuing my **Bachelor's Degree in Computer Engineering**
+- 🎓 Currently pursuing a **Bachelor's Degree in Computer Engineering**
 - 💡 Passionate about **programming, open source, and exploring new technologies**
 - 🌱 Constantly building projects and sharpening my skills
-- 📫 Always open to collaboration and interesting conversations
+- 🤝 Always open to collaboration and interesting conversations
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/nitish-kumar-kc-9784bb34a)
 
 <br/>
 
@@ -55,10 +56,21 @@
 
 <br/>
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NitishKumarKC&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishKumarKC&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<br/>
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/nitish-kumar-kc-9784bb34a
+<p align="left">
+  <a href="https://www.linkedin.com/in/nitish-kumar-kc-9784bb34a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <br/>
